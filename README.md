@@ -1,3 +1,7 @@
+<div align="center">
+<strong>Peder Stray</strong> /
+</div>
+
 ### Hi there 👋
 
 <!--
