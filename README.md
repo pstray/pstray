@@ -1,5 +1,6 @@
 <div align="center">
-<strong>Peder Stray</strong> /
+<img src="https://img.shields.io/keybase/pgp/pstray" />
+<img src="https://img.shields.io/twitter/follow/peder" />
 </div>
 
 ### Hi there 👋
